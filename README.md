@@ -6,7 +6,7 @@
   </a>
 </p>
 
-React Scrollama is a simple and silky library for scrollytelling. It relies on IntersectionObserver and sticky positioning over scroll listeners. It is originally adapted from [Russel Samora's](https://russellsamora.github.io/) [Scrollama](https://github.com/russellgoldenberg/scrollama).
+React Scrollama is a simple and silky library for scrollytelling. It relies on IntersectionObserver and sticky positioning over scroll listeners. It is originally adapted from [Russell Samora's](https://russellsamora.github.io/) [Scrollama](https://github.com/russellgoldenberg/scrollama).
 
 A few examples of ambitious interactive stories that were built with React Scrollama…
 
